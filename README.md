@@ -7,7 +7,7 @@
 ## Other projects
 * [MIPS-in-C](https://github.com/marshblocker/MIPS-in-C) - Simulating a subset of the MIPS instruction set in C.
 * [name_maker](https://github.com/marshblocker/name_maker) - A library and CLI command that generates name for a random person, a group of people, or a family.
-* [minigrep](https://github.com/marshblocker/minigrep) - A Rust implementation of the classic command-line utility.
+* [minigrep](https://github.com/marshblocker/minigrep) - A Rust implementation of the classic command-line utility grep.
 * [laro-ng-buhay](https://github.com/marshblocker/laro-ng-buhay) - Conway's Game of Life in Python.
 * [lasing](https://github.com/marshblocker/lasing) - n-entity random walk simulation in Python.
 * [memfib](https://github.com/marshblocker/memfib) - Benchmarking memoized fibonacci algorithm compared to standard fibonacci algorithm.
