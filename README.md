@@ -10,3 +10,9 @@
 * [minigrep](https://github.com/marshblocker/minigrep) - A Rust implementation of the classic command-line utility.
 * [laro-ng-buhay](https://github.com/marshblocker/laro-ng-buhay) - Conway's Game of Life in Python.
 * [lasing](https://github.com/marshblocker/lasing) - n-entity random walk simulation in Python.
+* [memfib](https://github.com/marshblocker/memfib) - Benchmarking memoized fibonacci algorithm compared to standard fibonacci algorithm.
+* [xox](https://github.com/marshblocker/xox) - Tic-tac-toe in Rust.
+
+## Projects in development
+* [tudu](https://github.com/marshblocker/tudu) - A cross-platform CLI to-do checklist app.
+* [assess](https://github.com/marshblocker/assess) - Own implementation of a test case checker in Python.
