@@ -5,6 +5,7 @@
 * [QuickServer](https://github.com/marshblocker/quick_server) - A fast CLI multi-threaded file server.
 
 ## Other projects
+* [gbipg](https://github.com/marshblocker/gbipg) - Graph-based Ishihara Plate Generation Algorithm.
 * [MIPS-in-C](https://github.com/marshblocker/MIPS-in-C) - Simulating a subset of the MIPS instruction set in C.
 * [Facts](https://github.com/marshblocker/facts) - Displays a random fact when starting the Python interpreter.
 * [fastmonkey](https://github.com/marshblocker/fastmonkey) - Python script that programmatically plays monkeytype.
